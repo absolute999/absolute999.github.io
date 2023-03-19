@@ -1,0 +1,42 @@
+body{
+	background-color: #000;
+	margin: 50px;
+	box-shadow: 0 0 30px 10px rgba(255, 255, 255);
+	font-family: 'Jost', sans-serif;
+font-family: 'Marck Script', cursive;
+font-family: 'Press Start 2P', cursive;
+font-family: 'Roboto', sans-serif;
+}
+@import url('https://fonts.googleapis.com/css2?family=Jost:ital@1&family=Marck+Script&family=Press+Start+2P&family=Roboto:wght@500;700&display=swap');
+p{
+	font-size: 35px;
+	text-align: center;
+	color: #07e56f;
+	}
+	h1{
+			font-size: 60px;
+			text-align: center;
+			color: #b930cf;
+		}
+		img{
+			max-width: 100%;
+			height: auto;
+			display: block;
+			width: 100%;
+			margin: auto;
+
+			height: 500px;
+		}
+		a{
+			font-size: 30px;
+			color: #ff0303;
+			text-decoration: none;
+		}
+		html{
+			background-color: #c307e0;
+		}
+a:hover{
+	color: #fbff00;
+	font-size: 40px;
+	text-decoration: underline;
+}
